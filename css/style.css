@@ -1,0 +1,47 @@
+.site-nav-item {
+	list-style-type: none;
+}
+
+.underline-none {
+	text-decoration: none;
+}
+
+.mulish {
+	font-family: "Mulish", "Arial", monospace;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;
+}
+
+.paragraph {
+	font-family: "Mulish", "Arial";
+	font-weight: 300;
+	color: #7D7987;
+}
+
+.headers {
+	font-family: "Mulish", "Arial", monospace;
+	font-weight: 700;
+	color: black;
+
+}
+
+
+.active {
+	font-weight: bold;
+	color: black;
+	opacity: 1;
+}
+
+.background-color {
+	background-color: #5EA6F2;
+}
+
+.font-white {
+	color: white;
+}
+
+.color-h4 {
+	color: #5EA6F2;
+}
